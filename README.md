@@ -1,6 +1,6 @@
 # STM32CubeC0 HAL Driver MCU Component
 
-![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/stm32c0xx_hal_driver.svg?color=brightgreen)
+![latest tag](https://img.shields.io/github/v/tag/ALABSTM/stm32c0xx-hal-driver.svg?color=brightgreen)
 
 ## Overview
 
@@ -19,17 +19,17 @@ Two models of publication are proposed for the STM32Cube embedded software:
 
 ## Description
 
-This **stm32c0xx_hal_driver** MCU component repo is one element of the STM32CubeC0 MCU embedded software package, providing the **HAL-LL Drivers** part.
+This **stm32c0xx-hal-driver** MCU component repo is one element of the STM32CubeC0 MCU embedded software package, providing the **HAL-LL Drivers** part.
 
 ## Release note
 
-Details about the content of this release are available in the release note [here](https://htmlpreview.github.io/?https://github.com/STMicroelectronics/stm32c0xx_hal_driver/blob/main/Release_Notes.html).
+Details about the content of this release are available in the release note [here](https://htmlpreview.github.io/?https://github.com/ALABSTM/stm32c0xx-hal-driver/blob/main/Release_Notes.html).
 
 ## Compatibility information
 
-It is **crucial** that you use a consistent set of versions for the CMSIS Core - CMSIS Device - HAL, as mentioned in [this](https://htmlpreview.github.io/?https://github.com/STMicroelectronics/STM32CubeC0/blob/main/Release_Notes.html) release note.
+It is **crucial** that you use a consistent set of versions for the CMSIS Core - CMSIS Device - HAL, as mentioned in [this](https://htmlpreview.github.io/?https://github.com/ALABSTM/STM32CubeC0/blob/main/Release_Notes.html) release note.
 
-The full **STM32CubeC0** MCU package is available [here](https://github.com/STMicroelectronics/STM32CubeC0).
+The full **STM32CubeC0** MCU package is available [here](https://github.com/ALABSTM/STM32CubeC0).
 
 ## Troubleshooting
 
